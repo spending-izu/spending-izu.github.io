@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'izu_2013_genacc';
+OpenSpending.identifier = 'izu_2013_generalacc';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
